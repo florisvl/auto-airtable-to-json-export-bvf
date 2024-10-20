@@ -1,0 +1,33 @@
+name: Update Airtable Data
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # Voer dit script elke 5 minuten uit
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run data fetch script
+        run: |
+          python script.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data.json
+          git commit -m "Automated update of data.json"
+          git push
