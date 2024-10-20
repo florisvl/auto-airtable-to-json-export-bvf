@@ -3,6 +3,7 @@ name: Update Airtable Data
 on:
   schedule:
     - cron: "*/5 * * * *"  # Voer dit script elke 5 minuten uit
+    workflow_dispatch:  # Allows manual trigger.
 
 jobs:
   update-data:
