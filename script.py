@@ -21,6 +21,7 @@ headers = {
 # Functie om data op te halen en op te slaan als JSON
 def fetch_and_save_data():
     response = requests.get(url, headers=headers)
+    print(response.json())
     if response.status_code == 200:
         data = response.json()
         with open('data.json', 'w') as f:
