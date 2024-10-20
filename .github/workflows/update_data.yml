@@ -24,10 +24,20 @@ jobs:
         run: |
           python script.py
 
+      - name: Check if there are changes
+        run: |
+          if git diff --exit-code; then
+            echo "No changes to commit";
+            exit 0;
+          fi
+
+      - name: Set git configuration
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
       - name: Commit and push changes
         run: |
-          git config --local user.email "florisvanluttervelt@gmail.com"
-          git config --local user.name "florisvl"
           git add data.json
-          git commit -m "Automated update of data.json"
+          git commit --allow-empty -m "Automated update of data.json"
           git push
