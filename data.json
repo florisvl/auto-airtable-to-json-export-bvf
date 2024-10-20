@@ -1,1 +1,37 @@
-{}
+{
+    "records": [
+        {
+            "id": "rec2pfrYbDMON7gWX",
+            "createdTime": "2024-10-15T20:58:57.000Z",
+            "fields": {
+                "Betaaldatum": "2024-10-14",
+                "Doelen en projecten": [
+                    "rec3HC4XKFcHBsYpn"
+                ],
+                "Dontatie": 20000,
+                "Toelichting": "Beetjee een mooooi verhaal over dingen en zo",
+                "Waarvoor is de donatie": "Daarom"
+            }
+        },
+        {
+            "id": "recNEYp3CMqmh8c8l",
+            "createdTime": "2023-10-13T08:44:15.000Z",
+            "fields": {
+                "Contactpersoon": [
+                    "recOgK0aHGAOd5tHH"
+                ],
+                "Betaaldatum": "2024-08-08",
+                "Doelen en projecten": [
+                    "rechmVfBbXs1xeGSt"
+                ],
+                "Dontatie": 2000,
+                "Waarvoor is de donatie": "Opleiding voor certificaat"
+            }
+        },
+        {
+            "id": "recm3QMOLc7uUmSBA",
+            "createdTime": "2024-10-19T10:21:04.000Z",
+            "fields": {}
+        }
+    ]
+}
