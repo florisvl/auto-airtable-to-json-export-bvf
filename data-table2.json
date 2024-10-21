@@ -1,0 +1,166 @@
+{
+    "records": [
+        {
+            "id": "rec3HC4XKFcHBsYpn",
+            "createdTime": "2024-10-15T18:51:57.000Z",
+            "fields": {
+                "Logo": [
+                    {
+                        "id": "attkWtQiidUCreZHt",
+                        "width": 1200,
+                        "height": 630,
+                        "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/RF2PIp6-blJhRoy_Ksj4Ng/TZ0MPJV1DokzPe5BfL-MvHhotkJ4hwAb0a-YUIJNXvzQ5-mHjyW_gI31Re4HbGji_my819pWE78PJ9ZHWSv6FMBjVYeqavS_x23XEgmmPtN3FP4mSA-KXfrCtmzPhF9jM16F_AwIIsH40qEcCW7xcjoHGy8rzgfEiEMUUstaZAb1naxUjyBGdCktohp6MkeA/P33rriNAPSgpnKJUMC-SrtRC8_5WnOcmA8g9NZ7rNlA",
+                        "filename": "Cardiologie-Centra-Nederland-OG.png",
+                        "size": 52528,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/fBcdntOWROodVLwpdarq7A/s1nDcfbKLcDHVh7VhtGKK_tE1_m5g2nLv9rKOpGtBh8hM5he9r6620bt33me6cI2j3oazTEOgWasJejxIWKadCF6sLyFEEMUxtbOVmjQ0S4UCWRmTn81LMQ4C0v632oURWl29W1T2ukZCx0uAY-jKQ/c-pplkiHEID4jgfP8--yrnYMZLUIAxsvm37rTAEWw_k",
+                                "width": 69,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/00EZOt6MwvNh4HKjswA8xA/_z2NybE9FwxE5RpbmXAjXoBw8OMOtO0Ob3hKDf9o_P3NsX3fPZ9ZDdBZ1WFIAVyHFhZ8jRDq9gFR5R8FctjCzR-gCKbReyMOevi9UwSt9d7xYZI1NNdW2uQTE2V54IFVhMPmFhVLFSbNReKQGZorBQ/EojorJs5W69Bj6od9DdcP04N94_ktYFm8FcEGjDbZBs",
+                                "width": 975,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/rF73vwdXPfobiULoWcbJWg/5-u0E4sGhKkIVyimdhUkk6NqJx5t6q30_9230NiJv-CZEKDtunLz13A3_SNXomo-MCq3lA4MSl5_fdkAzIlc5zMqhQHpn4kEATyh0y-1b98EyyJsk3XkFVZF4y3aMdoM15qu-Ag9vdSlzKBQAs-79w/cVFeHy66dZbBCJi8i7Zs9Iyo-hY_VUtOKu-RSLxxALs",
+                                "width": 1200,
+                                "height": 630
+                            }
+                        }
+                    }
+                ],
+                "Bedrijf/stichting": "Onderzoek naar boezemfibrilleren met Cardiologie Centra Nederland",
+                "Over het doel of project": "Wij geven inhoudelijke en financi\u00eble input aan het researchproject Cardiologie\u00a0naar \u2018boezemfibrilleren\u2019 van Cardiologie Centra Nederland (CCN).\u00a0\u00a0\nBoezemfibrilleren is een hartritmestoornis die vooral voorkomt bij ouderen. Dit soort ritmestoornissen vereisen bloedverdunning om een\u00a0beroerte (herseninfarct) te voorkomen. Voor\u00a0mensen met een hartritmestoornis waarvan de aandoening niet is aangetoond,\u00a0is een beroerte dan ook een groot risico.\u00a0\nCCN onderzoekt daarom het gebruik van de Apple Watch voor de detectie van ritmestoornissen in een selecte groep pati\u00ebnten. Deze \u2018slimme\u2019 horloge kan variabiliteit in hartslag meten en heeft een ECG-functie om ritmestoornissen vast te leggen.\u00a0\nHet onderzoek is een samenwerking tussen CCN, het Amsterdam UMC, Apple en de Bob Vlake Foundation. Binnen dit consortium zullen CCN en het Amsterdam UMC de wetenschappelijke kwaliteit borgen. De Bob Vlake foundation financiert het onderzoek en Apple stelt de Apple\u00a0Watches\u00a0ter beschikking. De Bob Vlake Foundation wil bijdragen aan het voorkomen van dit probleem en steunt dit project voor 3 jaar.\u00a0\n",
+                "Website": "https://www.cardiologiecentra.nl/kennis/nieuws-and-publicaties/onderzoek-cardiologie-centra-nederland-naar-gebruik-apple-watch-in-detectie-ritmestoornissen/#:~:text=Cardiologie%20Centra%20Nederland%20(CCN)%20start,kan%20leiden%20tot%20een%20herseninfarct.",
+                "Donaties": [
+                    "rec2pfrYbDMON7gWX"
+                ],
+                "Gedoneerde bedrag": 20000
+            }
+        },
+        {
+            "id": "rechmVfBbXs1xeGSt",
+            "createdTime": "2023-10-13T08:41:13.000Z",
+            "fields": {
+                "Logo": [
+                    {
+                        "id": "attxnvdPrqJdWGYhq",
+                        "width": 522,
+                        "height": 172,
+                        "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/Arv71M2Qg2jrhcKYfSAV2g/EGTo6oI1Qoc6M04pOxaGC0lmN68zWzxJ0lRS_-3dDF4yLWGT779rpzZ_XQ4QlvjLtHbat3PNkgGOT6r0FCbl8PPZRXCDE2qQiw2No7_9h9W5aGyE80myRWhZaKxAgIuvEI_dTmPEPUDIMdsshDjEvRPkKBaEL92s77h78kmBSGixuaO-KvT_NIOBWw66Op6mRrctTMqumUDUusZCQdu-8A/BhdoAA2H4iaZiK3ICur1tWP9a7AjrMM4WtFW0tPAqZs",
+                        "filename": "CRE8_MAKERS_MET_AANDACHT_LOGO-2-1400x172.png",
+                        "size": 14761,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/O8aw3BHNT-69BCLvX2_CcA/B9jQUuPnzjgCl3WhZBeuaqB9FPEuAtGc5HTaqHIYNrHYcaWvmmQvLThbPyRFE1ktJeq2qX2fDUVLskupGO5B9y9xvCthGn_TM-BSJf2uKW48Nm43UpQxhHY0v7Zb2GwhDWDJ5XdWZ-OprI1op-Q96A/hnIqtNMfOOBGJMa3cUenMWF7E8d3GFG2Cpk5QNIzH-E",
+                                "width": 109,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/retR_LDuicUe5q_nyCZA0Q/MTyTqZJ2ryi8WQOY3yGn8_lk2lLIoR8fN8aAX8R9lqS8J6DAvJx2FytNnWX2WZkGmwaHYcFlcRMUK2nGUC6uakyx_NZtN9-eu-MMDBM_zd7uahwS9J3orgW3qeby3ibqDYYMUZVtp-5O_MetC5ADaw/Hi8kB62RiXh0_sMpu4fsVpu8OSrFtUqQMM6EB1TwInc",
+                                "width": 522,
+                                "height": 172
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/fxHk_t8gl2Y4owaFTduS-A/iouMMzYsr0lz-OEJWtA4LlzGJk_ttMbU1cGX2WpT6sC9YlGY1jWDATNcLY8B1WMwTCMYv1aisZY5CXVqHK3trtKezWWLNLphzx3LnWDmYMLv1cmKGhi2Nh_CzJh5eROcVcuvgJOOjkiH9X_Q9blIXg/njCnnA3blQY3fWgIoHnhYDlEQ0YRz1TKjuKYqqRSbGQ",
+                                "width": 522,
+                                "height": 172
+                            }
+                        }
+                    }
+                ],
+                "Bedrijf/stichting": "Cre8",
+                "Algemeen nummer": "020-7521883",
+                "Contactpersoon": [
+                    "recOgK0aHGAOd5tHH"
+                ],
+                "Over het doel of project": "Opleiding traject naar certificaat\n",
+                "Website": "https://c-r-e-8.nl",
+                "Donaties": [
+                    "recNEYp3CMqmh8c8l"
+                ],
+                "Gedoneerde bedrag": 2000
+            }
+        },
+        {
+            "id": "recoU3kABXpOT5DcR",
+            "createdTime": "2024-10-15T12:26:59.000Z",
+            "fields": {
+                "Logo": [
+                    {
+                        "id": "attxZj6htno8TALv5",
+                        "width": 1277,
+                        "height": 550,
+                        "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/UB9M-jf_iOR-ThiYoSJu3Q/xK9fLqZRhCScab8o70Xtlp2eMMPgMGc9AZg__LysuGtZlNKiqo1bRMUdKD7eLii7fDKoTBBb53RHBkjLb6r9w6_W_f_noggXaUeE7U7Zy3kPG6O7y0ncSAHS4NtlzDxdSRocH65N-SIJLCmVxjjCpr_WngiGlEYhFQnvikr5Pvan0WmBJQQAEqjPf5u4K-rr/B9fDH_DkH9vMlYcRI0ckicC3dlXi1c6ioxw6QfjHw7U",
+                        "filename": "IMCweekend_metstichting-02_EPS_kopie.jpg",
+                        "size": 119553,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/ueWwzeAVnttD78-3kqWUpw/Wz8iLvK7SCgWIetnNYr9KXlnzpJK62kh0bYJBjgIjThQV9eeHHwLplgPfbIbXXVz8RFMpJ8Bt1vpU6HIa1DDSOImI_b6HSjZiJW5tQty-JLplOnyrypmUXmEoVMgBE7_SUvDShCCf3_PAd_bvlRnsQ/XQJDr6ITs_x72EgCCRDrlDRfm4BHLwK3xcO0elQM7pM",
+                                "width": 83,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/SuSaqkNicQVg9u72QmGWgQ/mgeTAkjqw6tvguMQtWig-FNWk_nzhEiZhUoUZVcF70iRptFmg5Ds6RcbaPj-Y6SpoBXSlevDDIUqm5MSJNs9YvMJUgzy8am2BTf0lU0cP5X7kZkssUu2aRKzA8dGEQ0kgxiZZlJjKtJ5XHQNyZhAGw/tISXz0588BhHsXD5pyQAT7yVl5HIWB-zF3X_sX3mCDo",
+                                "width": 1189,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/UZF4s4r2OOdikycYL_ZJPw/DI5DMVmvaC9Qni4SUmTE56Ajo56CYuZZX7nSymnSvwo88pgjT2mQL07LzNPrl3ejoxMceEiOkIv5POZFOA_Rf8-f_FW9yQ00iJFnhmUginUaFH3Ym0HIykVnGbfHuJ73Q_l7TsRjOvcdqIBfte279A/wJAYQizc84XpHvbzfvr7V2dtEenRWhJapnjkK-ptKZE",
+                                "width": 1277,
+                                "height": 550
+                            }
+                        }
+                    }
+                ],
+                "Bedrijf/stichting": "IMC Weekendschool",
+                "Over het doel of project": "Het IMC Weekendschool helpt jongeren van alle schoolniveaus en sociale achtergronden om gemotiveerd hun plek in de samenleving te laten innemen.\u00a0Wij ondersteunen dit doel met twee projecten.\nWe adopteren een klas van twintig\u00a0leerlingen gedurende drie jaar en ondersteunen het\u00a0vak Techniek bij de vestiging in Amsterdam Noord. Dit vak richt zich op beroepen met werkperspectief waarin maken en repareren centraal staat.\n",
+                "Website": "https://www.imcweekendschool.nl",
+                "Gedoneerde bedrag": 0
+            }
+        },
+        {
+            "id": "recqPNJvAnXbCZWxJ",
+            "createdTime": "2024-10-15T12:26:57.000Z",
+            "fields": {
+                "Logo": [
+                    {
+                        "id": "atth2cGmkAmXnlvLW",
+                        "width": 661,
+                        "height": 227,
+                        "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/jn7hVpZBaDxNj0XwpAWBYA/jTrYOwn2-H9vMGmWOmFryYvvXXs6assI8dk8RWJHTz7rOjfWrocyPwkZn-uNnzcLxWwZZeovH6m8zPVREP4k85Lx9bYhquZwuu-aFVgQhPVgX1hX_l8BjP5d69FUt9-igB9gMenoKvRpaQpifi3K9G6X4VLvzKIss_Prnn5JHLc/cy-3kjaPfBJ4kVI8r6Z3Ha4tKgT1NGtRNhaOo16XAXM",
+                        "filename": "sitelogobj.png?w=661&ssl=1",
+                        "size": 13512,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/qFmxT4bFqJNMjBl_ymMYng/s8ap2RUIye9pxYNoKY7NA9KRCXDafcYTZtFf1aT1BY-bI0zqoH1mEuTn7C8H_8SZczL_e65zxNn3ySIknXOKRP9ecB7N0qcS4zyxuuaN3nqWGwrQ2Nu0ekwPnvrmPxjjbTppuOTfHadgTDIKOJkESQ/og3_U3yFhbxXhRTmxRVKrwYPOWy1FYPYr8ofj8fbeVc",
+                                "width": 105,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/EwYX49CR5652OFqAakRHCg/-EccdWXi3SSXR2vlrEVWD_-TgxFy5brB2QjzPGpk-raVWGfsVAm081xTVJq71Zc25dY9adMIBEEJuqxwpMQoyC8Mh_EnZE5PfP9D_wqpuohjuWqxHpruG0z6GNv_JRqSaq5uBFZfFDrAw6suL7sX6A/sgBD9A1c6Mk-KdZjQwUkLOODJ8lJ_eeb0jdLmzZhhc8",
+                                "width": 661,
+                                "height": 227
+                            },
+                            "full": {
+                                "url": "https://v5.airtableusercontent.com/v3/u/34/34/1729555200000/8-_-m-3bF2FWEDZODgVnpA/72VtAFK76NUbhYuTdWHQCdTZxXiAjXHq7-nSzbH5pFb_is9BRXlCwYh8zv_TSUTMAKQ4RIDPjDWdcPNMZ5X2mZZeeZxNb2uoz1UFDCau2JNj-P2HjgxReoelWyznFGvTAU5TsezcB8ZTNiguTi-wUg/T7l5AyBJltavQ7_wjWC-E52d3AkjYo7HAFI0GU1Ywgk",
+                                "width": 661,
+                                "height": 227
+                            }
+                        }
+                    }
+                ],
+                "Bedrijf/stichting": "Special Needs Judoka Foundation",
+                "Over het doel of project": "Het Special Needs Judoka Foundation (SNJF) wil zorgjudo beschikbaar stellen voor kinderen met een zware lichamelijke en/of verstandelijke handicap bij een kinderdagverblijf. Het SNJF hoopt hiermee zorgjudo te integreren in nationale judo- en onderwijsorganisaties.\u00a0SNJF is ervan overtuigd dat dit het leven van mensen met een beperking,\u00a0inclusief\u00a0\u00a0hun families\u00a0en\u00a0omgeving,\u00a0zal verbeteren.\u00a0Volgens\u00a0het SNJF\u00a0zal\u00a0zorgjudo\u00a0uiteindelijk van invloed zijn op het maatschappelijk functioneren en\u00a0op\u00a0de maatschappij als geheel.\u00a0\u00a0\nWij\u00a0bieden\u00a0de organisatie\u00a0financi\u00eble ondersteuning om\u00a0deze missie door te voeren\u00a0bij een kinderdagverblijf.\u00a0We willen hiermee de financi\u00eble drempels wegnemen van ouders zodat hun kinderen\u00a0de voordelen\u00a0van zorgjudo\u00a0meekrijgen.\u00a0\u00a0\n",
+                "Website": "https://www.beterjudo.nl",
+                "Gedoneerde bedrag": 0
+            }
+        }
+    ]
+}
