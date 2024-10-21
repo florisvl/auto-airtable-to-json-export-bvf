@@ -24,15 +24,15 @@ jobs:
       - name: Log environment variables
         run: |
           echo "Base ID: ${{ secrets.AIRTABLE_BASE_ID }}"
-          echo "Table Name: ${{ secrets.AIRTABLE_TABLE_NAME_1 }}"
-          echo "Table Name: ${{ secrets.AIRTABLE_TABLE_NAME_2 }}"
+          echo "Table Name 1: ${{ secrets.AIRTABLE_TABLE_NAME_1 }}"
+          echo "Table Name 2: ${{ secrets.AIRTABLE_TABLE_NAME_2 }}"
 
       - name: Run data fetch script
         env: 
           AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
           AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
-          AIRTABLE_TABLE_NAME: ${{ secrets.AIRTABLE_TABLE_NAME_1 }}
-          AIRTABLE_TABLE_NAME: ${{ secrets.AIRTABLE_TABLE_NAME_2 }}
+          AIRTABLE_TABLE_NAME_1: ${{ secrets.AIRTABLE_TABLE_NAME_1 }}
+          AIRTABLE_TABLE_NAME_2: ${{ secrets.AIRTABLE_TABLE_NAME_2 }}
         run: |
           python script.py
 
