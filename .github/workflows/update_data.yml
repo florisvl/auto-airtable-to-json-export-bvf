@@ -50,6 +50,6 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add data.json
-          git commit --allow-empty -m "Automated update of data.json"
+          git add data-table1.json data-table2.json
+          git commit --allow-empty -m "Automated update of data-table1.json and data-table2.json"
           git push
