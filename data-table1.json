@@ -31,7 +31,10 @@
         {
             "id": "recm3QMOLc7uUmSBA",
             "createdTime": "2024-10-19T10:21:04.000Z",
-            "fields": {}
+            "fields": {
+                "Dontatie": 10,
+                "Waarvoor is de donatie": "test donatie"
+            }
         }
     ]
 }
