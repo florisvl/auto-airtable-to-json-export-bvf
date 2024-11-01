@@ -4,6 +4,13 @@
             "id": "rec3HC4XKFcHBsYpn",
             "createdTime": "2024-10-15T18:51:57.000Z",
             "fields": {
+                "Bedrijf/stichting": "Onderzoek naar boezemfibrilleren met Cardiologie Centra Nederland",
+                "Over het doel of project": "Wij geven inhoudelijke en financi\u00eble input aan het researchproject Cardiologie\u00a0naar \u2018boezemfibrilleren\u2019 van Cardiologie Centra Nederland (CCN).\u00a0\u00a0\nBoezemfibrilleren is een hartritmestoornis die vooral voorkomt bij ouderen. Dit soort ritmestoornissen vereisen bloedverdunning om een\u00a0beroerte (herseninfarct) te voorkomen. Voor\u00a0mensen met een hartritmestoornis waarvan de aandoening niet is aangetoond,\u00a0is een beroerte dan ook een groot risico.\u00a0\nCCN onderzoekt daarom het gebruik van de Apple Watch voor de detectie van ritmestoornissen in een selecte groep pati\u00ebnten. Deze \u2018slimme\u2019 horloge kan variabiliteit in hartslag meten en heeft een ECG-functie om ritmestoornissen vast te leggen.\u00a0\nHet onderzoek is een samenwerking tussen CCN, het Amsterdam UMC, Apple en de Bob Vlake Foundation. Binnen dit consortium zullen CCN en het Amsterdam UMC de wetenschappelijke kwaliteit borgen. De Bob Vlake foundation financiert het onderzoek en Apple stelt de Apple\u00a0Watches\u00a0ter beschikking. De Bob Vlake Foundation wil bijdragen aan het voorkomen van dit probleem en steunt dit project voor 3 jaar.\u00a0\n",
+                "Gedoneerde bedrag": 20000,
+                "Donaties": [
+                    "rec2pfrYbDMON7gWX"
+                ],
+                "Website": "https://www.cardiologiecentra.nl/kennis/nieuws-and-publicaties/onderzoek-cardiologie-centra-nederland-naar-gebruik-apple-watch-in-detectie-ritmestoornissen/#:~:text=Cardiologie%20Centra%20Nederland%20(CCN)%20start,kan%20leiden%20tot%20een%20herseninfarct.",
                 "Logo": [
                     {
                         "id": "attkWtQiidUCreZHt",
@@ -31,20 +38,24 @@
                             }
                         }
                     }
-                ],
-                "Bedrijf/stichting": "Onderzoek naar boezemfibrilleren met Cardiologie Centra Nederland",
-                "Over het doel of project": "Wij geven inhoudelijke en financi\u00eble input aan het researchproject Cardiologie\u00a0naar \u2018boezemfibrilleren\u2019 van Cardiologie Centra Nederland (CCN).\u00a0\u00a0\nBoezemfibrilleren is een hartritmestoornis die vooral voorkomt bij ouderen. Dit soort ritmestoornissen vereisen bloedverdunning om een\u00a0beroerte (herseninfarct) te voorkomen. Voor\u00a0mensen met een hartritmestoornis waarvan de aandoening niet is aangetoond,\u00a0is een beroerte dan ook een groot risico.\u00a0\nCCN onderzoekt daarom het gebruik van de Apple Watch voor de detectie van ritmestoornissen in een selecte groep pati\u00ebnten. Deze \u2018slimme\u2019 horloge kan variabiliteit in hartslag meten en heeft een ECG-functie om ritmestoornissen vast te leggen.\u00a0\nHet onderzoek is een samenwerking tussen CCN, het Amsterdam UMC, Apple en de Bob Vlake Foundation. Binnen dit consortium zullen CCN en het Amsterdam UMC de wetenschappelijke kwaliteit borgen. De Bob Vlake foundation financiert het onderzoek en Apple stelt de Apple\u00a0Watches\u00a0ter beschikking. De Bob Vlake Foundation wil bijdragen aan het voorkomen van dit probleem en steunt dit project voor 3 jaar.\u00a0\n",
-                "Website": "https://www.cardiologiecentra.nl/kennis/nieuws-and-publicaties/onderzoek-cardiologie-centra-nederland-naar-gebruik-apple-watch-in-detectie-ritmestoornissen/#:~:text=Cardiologie%20Centra%20Nederland%20(CCN)%20start,kan%20leiden%20tot%20een%20herseninfarct.",
-                "Donaties": [
-                    "rec2pfrYbDMON7gWX"
-                ],
-                "Gedoneerde bedrag": 20000
+                ]
             }
         },
         {
             "id": "rechmVfBbXs1xeGSt",
             "createdTime": "2023-10-13T08:41:13.000Z",
             "fields": {
+                "Bedrijf/stichting": "Cre8",
+                "Over het doel of project": "Opleiding traject naar certificaat\n",
+                "Contactpersoon": [
+                    "recOgK0aHGAOd5tHH"
+                ],
+                "Gedoneerde bedrag": 2000,
+                "Donaties": [
+                    "recNEYp3CMqmh8c8l"
+                ],
+                "Website": "https://c-r-e-8.nl",
+                "Algemeen nummer": "020-7521883",
                 "Logo": [
                     {
                         "id": "attxnvdPrqJdWGYhq",
@@ -72,24 +83,17 @@
                             }
                         }
                     }
-                ],
-                "Bedrijf/stichting": "Cre8",
-                "Algemeen nummer": "020-7521883",
-                "Contactpersoon": [
-                    "recOgK0aHGAOd5tHH"
-                ],
-                "Over het doel of project": "Opleiding traject naar certificaat\n",
-                "Website": "https://c-r-e-8.nl",
-                "Donaties": [
-                    "recNEYp3CMqmh8c8l"
-                ],
-                "Gedoneerde bedrag": 2000
+                ]
             }
         },
         {
             "id": "recoU3kABXpOT5DcR",
             "createdTime": "2024-10-15T12:26:59.000Z",
             "fields": {
+                "Bedrijf/stichting": "IMC Weekendschool",
+                "Over het doel of project": "Het IMC Weekendschool helpt jongeren van alle schoolniveaus en sociale achtergronden om gemotiveerd hun plek in de samenleving te laten innemen.\u00a0Wij ondersteunen dit doel met twee projecten.\nWe adopteren een klas van twintig\u00a0leerlingen gedurende drie jaar en ondersteunen het\u00a0vak Techniek bij de vestiging in Amsterdam Noord. Dit vak richt zich op beroepen met werkperspectief waarin maken en repareren centraal staat.\n",
+                "Gedoneerde bedrag": 0,
+                "Website": "https://www.imcweekendschool.nl",
                 "Logo": [
                     {
                         "id": "attxZj6htno8TALv5",
@@ -117,17 +121,17 @@
                             }
                         }
                     }
-                ],
-                "Bedrijf/stichting": "IMC Weekendschool",
-                "Over het doel of project": "Het IMC Weekendschool helpt jongeren van alle schoolniveaus en sociale achtergronden om gemotiveerd hun plek in de samenleving te laten innemen.\u00a0Wij ondersteunen dit doel met twee projecten.\nWe adopteren een klas van twintig\u00a0leerlingen gedurende drie jaar en ondersteunen het\u00a0vak Techniek bij de vestiging in Amsterdam Noord. Dit vak richt zich op beroepen met werkperspectief waarin maken en repareren centraal staat.\n",
-                "Website": "https://www.imcweekendschool.nl",
-                "Gedoneerde bedrag": 0
+                ]
             }
         },
         {
             "id": "recqPNJvAnXbCZWxJ",
             "createdTime": "2024-10-15T12:26:57.000Z",
             "fields": {
+                "Bedrijf/stichting": "Special Needs Judoka Foundation",
+                "Over het doel of project": "Het Special Needs Judoka Foundation (SNJF) wil zorgjudo beschikbaar stellen voor kinderen met een zware lichamelijke en/of verstandelijke handicap bij een kinderdagverblijf. Het SNJF hoopt hiermee zorgjudo te integreren in nationale judo- en onderwijsorganisaties.\u00a0SNJF is ervan overtuigd dat dit het leven van mensen met een beperking,\u00a0inclusief\u00a0\u00a0hun families\u00a0en\u00a0omgeving,\u00a0zal verbeteren.\u00a0Volgens\u00a0het SNJF\u00a0zal\u00a0zorgjudo\u00a0uiteindelijk van invloed zijn op het maatschappelijk functioneren en\u00a0op\u00a0de maatschappij als geheel.\u00a0\u00a0\nWij\u00a0bieden\u00a0de organisatie\u00a0financi\u00eble ondersteuning om\u00a0deze missie door te voeren\u00a0bij een kinderdagverblijf.\u00a0We willen hiermee de financi\u00eble drempels wegnemen van ouders zodat hun kinderen\u00a0de voordelen\u00a0van zorgjudo\u00a0meekrijgen.\u00a0\u00a0\n",
+                "Gedoneerde bedrag": 0,
+                "Website": "https://www.beterjudo.nl",
                 "Logo": [
                     {
                         "id": "atth2cGmkAmXnlvLW",
@@ -155,11 +159,7 @@
                             }
                         }
                     }
-                ],
-                "Bedrijf/stichting": "Special Needs Judoka Foundation",
-                "Over het doel of project": "Het Special Needs Judoka Foundation (SNJF) wil zorgjudo beschikbaar stellen voor kinderen met een zware lichamelijke en/of verstandelijke handicap bij een kinderdagverblijf. Het SNJF hoopt hiermee zorgjudo te integreren in nationale judo- en onderwijsorganisaties.\u00a0SNJF is ervan overtuigd dat dit het leven van mensen met een beperking,\u00a0inclusief\u00a0\u00a0hun families\u00a0en\u00a0omgeving,\u00a0zal verbeteren.\u00a0Volgens\u00a0het SNJF\u00a0zal\u00a0zorgjudo\u00a0uiteindelijk van invloed zijn op het maatschappelijk functioneren en\u00a0op\u00a0de maatschappij als geheel.\u00a0\u00a0\nWij\u00a0bieden\u00a0de organisatie\u00a0financi\u00eble ondersteuning om\u00a0deze missie door te voeren\u00a0bij een kinderdagverblijf.\u00a0We willen hiermee de financi\u00eble drempels wegnemen van ouders zodat hun kinderen\u00a0de voordelen\u00a0van zorgjudo\u00a0meekrijgen.\u00a0\u00a0\n",
-                "Website": "https://www.beterjudo.nl",
-                "Gedoneerde bedrag": 0
+                ]
             }
         }
     ]
