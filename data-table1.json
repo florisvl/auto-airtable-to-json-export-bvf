@@ -5,7 +5,7 @@
             "createdTime": "2024-10-15T20:58:57.000Z",
             "fields": {
                 "Betaaldatum": "2024-10-14",
-                "Doelen en projecten": [
+                "Initiatieven": [
                     "rec3HC4XKFcHBsYpn"
                 ],
                 "Dontatie": 20000,
@@ -17,11 +17,11 @@
             "id": "recNEYp3CMqmh8c8l",
             "createdTime": "2023-10-13T08:44:15.000Z",
             "fields": {
-                "Contactpersoon": [
+                "Netwerk": [
                     "recOgK0aHGAOd5tHH"
                 ],
                 "Betaaldatum": "2024-08-08",
-                "Doelen en projecten": [
+                "Initiatieven": [
                     "rechmVfBbXs1xeGSt"
                 ],
                 "Dontatie": 2000,
